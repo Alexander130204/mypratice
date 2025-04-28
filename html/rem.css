@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html{
+    font-size: 62.5%; /* esto es un truco para que este redondeado el valor de html en rem
+    o sea ya no vale 16px si no que con esto ahora vale 10px y es mas facil de "sacar calculos" para el tamano*/
+}
+p{
+    font-size: 1.6rem;
+}
+main div{
+    font-size: 8.9rem;
+}

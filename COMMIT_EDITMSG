@@ -1,0 +1,51 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .vscode/settings.json
+#	new file:   botondeclick js/dynamicimport.js
+#	new file:   botondeclick js/index2.html
+#	new file:   botondeclick js/module.js
+#	new file:   clasesJS.js
+#	new file:   index.html
+#	new file:   javascript/At.js
+#	new file:   javascript/Perfilusuario.js
+#	new file:   javascript/adivinaelnumero.js
+#	new file:   javascript/arrayinclude.js
+#	new file:   javascript/async.js
+#	new file:   javascript/bigint.js
+#	new file:   javascript/contructor.js
+#	new file:   javascript/flat.map.js
+#	new file:   javascript/fromentries.js
+#	new file:   javascript/funcionesasync.js
+#	new file:   javascript/generadores.js
+#	new file:   javascript/globalthis.js
+#	new file:   javascript/nullish.js
+#	new file:   javascript/numericseparators.js
+#	new file:   javascript/numeroaleatorio.js
+#	new file:   javascript/objectentries.js
+#	new file:   javascript/opcionalchaining.js
+#	new file:   javascript/palindrome.js
+#	new file:   javascript/private.js
+#	new file:   javascript/products.js
+#	new file:   javascript/promiseAny.js
+#	new file:   javascript/promisesallsettled.js
+#	new file:   javascript/regex.js
+#	new file:   javascript/replaceAll.js
+#	new file:   javascript/setadd.js
+#	new file:   javascript/stringpadding.js
+#	new file:   javascript/topLevelAwait.js
+#	new file:   javascript/toto.js
+#	new file:   javascript/toto2.js
+#	new file:   javascript/toto3.js
+#	new file:   javascript/toto4.js
+#	new file:   javascript/trailingcommas.js
+#	new file:   javascript/trimstar.trimend.js
+#	new file:   javascript/try.catch.js
+#	new file:   objetoJS.js
+#
